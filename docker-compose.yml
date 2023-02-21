@@ -1,4 +1,4 @@
-version: 3.3
+version: '3.3'
 services:
   frontend:
     image: somth/234-deploylab-frontend:latest
